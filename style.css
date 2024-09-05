@@ -1,0 +1,19 @@
+.extra_margin{
+    margin-top: 2px;
+}
+
+.m-4{text-align: right;}
+
+
+ .col-md-4{text-align: left; margin-top: 2px;}
+
+.col-md-5{text-align: right}  
+
+
+.page-header{text-align: left}
+
+
+.col-md-7{text-align: right;}
+.m-5{text-align: center;}
+.col-md-8{text-align: center;}
+.borderbox{border: solid; margin: 2px;}
